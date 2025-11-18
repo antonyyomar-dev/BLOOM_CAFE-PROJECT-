@@ -11,10 +11,10 @@ SUBATECX is a project developed by Systems Engineering students from the UPC, fo
 - Provides a scalable, modern, and adaptable system  
 
 ## 🛠️ Tech Stack
-- **Frontend:** (React, HTML/CSS, etc.)  
-- **Backend:** (Python, Node.js, etc.)  
-- **Database:** (MySQL, MongoDB, etc.)  
-- **Tools:** Git, GitHub, Agile, Cucumber/Behave  
+- **Frontend:**   
+- **Backend:**   
+- **Database:** 
+- **Tools:**  
 
 ## 📁 Repository Structure
 
