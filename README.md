@@ -21,11 +21,11 @@ SUBATECX is a project developed by Systems Engineering students from the UPC, fo
 
 ## 👥 Team Members
 
-Apari Crisóstomo, Jazmín Yosselyn
-Hidalgo Martel, Joseph Edward 
-Huamán Flores, Alexis Miguel
-Peña Roña, Antony Yomar
-Villavicencio Dávila, Ivette Lucero 
+- Apari Crisóstomo, Jazmín Yosselyn
+- Hidalgo Martel, Joseph Edward 
+- Huamán Flores, Alexis Miguel
+- Peña Roña, Antony Yomar
+- Villavicencio Dávila, Ivette Lucero 
 
 ## 🔄 Workflow (Git Flow)
 - main → stable version  
