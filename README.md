@@ -1,6 +1,7 @@
 # BLOOM CAFÉ-
 BLOOM CAFE  is a startup created by UPC students that applies Systems Engineering to develop a technological solution aimed at optimizing management and improving the user experience in cafeterias, our primary target segment.
 # 🚀 BLOOM CAFÉ— Smart Cafeteria Management System
+![Descripción de la imagen](https://lh3.googleusercontent.com/gg-dl/ABS2GSmis__OXvZmtR6IXajVZVndTllHtuwiyKGwQhVaLvEAWftrumTW0ReylGNeJ5nvBHA8g6hfZogRefbtZ5au0fb5K0BYsq9BT-c0_e0kdSHblr26ZQhoPwOSkw2NMI7AWWNbCNYp9yw2lugky2gblwopGi6Qn2DHiKUaxfLWSqyb_IHAgA=s1024-rj)
 
 ## 👥 Team Members
 
