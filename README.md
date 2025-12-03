@@ -4,13 +4,18 @@ BLOOM CAFE is a startup created by UPC students that applies Systems Engineering
 # 🚀 BLOOM CAFÉ — Smart Cafeteria Management System
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSmis__OXvZmtR6IXajVZVndTllHtuwiyKGwQhVaLvEAWftrumTW0ReylGNeJ5nvBHA8g6hfZogRefbtZ5au0fb5K0BYsq9BT-c0_e0kdSHblr26ZQhoPwOSkw2NMI7AWWNbCNYp9yw2lugky2gblwopGi6Qn2DHiKUaxfLWSqyb_IHAgA=s1024-rj" alt="Smart Cafeteria System" width="700">
+  <img src="https://conociendochile.cl/wp-content/uploads/2024/03/Cafeteria-Berezi-1-1.jpg" alt="Portada Bloom Café" width="700">
 </p>
 
-## 👥 Team Members
+## 📌 Project Overview
+BLOOM CAFÉ is designed to streamline cafeteria operations, including order management, inventory control, and customer experience enhancement. The system integrates modern technologies to provide real-time analytics, efficient workflow, and a user-friendly interface.
 
-- Apari Crisóstomo, Jazmín Yosselyn
-- Hidalgo Martel, Joseph Edward 
-- Huamán Flores, Alexis Miguel
-- Peña Roña, Antony Yomar
-- Villavicencio Dávila, Ivette Lucero
+
+## 👥 Team Members
+- Apari Crisóstomo, Jazmín Yosselyn  
+- Hidalgo Martel, Joseph Edward  
+- Huamán Flores, Alexis Miguel  
+- Peña Roña, Antony Yomar  
+- Villavicencio Dávila, Ivette Lucero  
+
+## 🎯
