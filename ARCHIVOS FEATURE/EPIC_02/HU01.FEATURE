@@ -10,8 +10,8 @@ Feature: HU01 - Registro y visualización de pedidos en tiempo real
     And la aplicación actualizará el estado en tiempo real
 
     Examples:
-      | id_pedido | cliente       | productos                   | hora_registro | estado_actual      | resultado_esperado                         |
-      | 1001      | Juan Pérez    | Café Latte, Croissant       | 10:15         | pendiente          | pedido registrado y visible en tiempo real |
+      | id_pedido | cliente       | productos                   | hora_registro | estado_actual      | resultado_esperado                            |
+      | 1001      | Juan Pérez    | Café Latte, Croissant       | 10:15         | pendiente          | pedido registrado y visible en tiempo real    |
       | 1002      | María López   | Espresso, Muffin            | 10:17         | pendiente          | pedido registrado y actualizado correctamente |
 
   Scenario: Pedido no visible inmediatamente
@@ -21,6 +21,7 @@ Feature: HU01 - Registro y visualización de pedidos en tiempo real
     And refrescar la lista automáticamente en menos de 5 segundos para visualizar el pedido pendiente
 
     Examples:
-      | id_pedido | cliente      | estado_sistema | mensaje_mostrado         | tiempo_refresco | resultado_esperado                              |
+      | id_pedido | cliente      | estado_sistema | mensaje_mostrado         | tiempo_refresco | resultado_esperado                                  |
       | 1003      | Carlos Díaz  | retraso        | Actualizando pedidos     | 5 segundos      | pedido visible automáticamente después del refresco |
-      | 1004      | Ana Torres   | retraso        | Actualizando pedidos     | 4 segundos      | pedido aparece actualizado sin intervención       |
+      | 1004      | Ana Torres   | retraso        | Actualizando pedidos     | 4 segundos      | pedido aparece actualizado sin intervención         |
+
